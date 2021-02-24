@@ -1,1 +1,2 @@
 # WeRateDogs-Analysis
+In this project, I will analyze the dataset from the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. I will use three different sources, Enhanced Twitter Archive, Twitter Archive from Twitter API, and Image Predictions File. After gathering all of the data for this project, I will clean and analyze it. In the end, I will give insights and visualizations of the analysis of the dataset.
